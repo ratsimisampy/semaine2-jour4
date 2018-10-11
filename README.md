@@ -1,2 +1,3 @@
 # semaine2-jour4
-Nokogiri
+Travail effectué avec @Mathieu M, @Tomroumeg , @Kalisp
+notions nokogiri, scraping
